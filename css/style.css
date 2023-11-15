@@ -1,0 +1,27 @@
+
+header{
+    background-color: #22223B;
+}
+
+header nav ul{
+    display: flex;
+}
+header img{
+    padding: 10px;
+}
+header nav ul li{
+    font-family: 'Poly', serif;
+    list-style: none;
+    padding: 10px;
+}
+.utility{
+    text-decoration: none;
+    color: #F0CC87;
+}
+p{
+    font-family: 'Poly', serif;
+}
+
+h2{
+    font-family: 'Acme', sans-serif;
+}
