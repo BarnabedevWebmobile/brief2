@@ -78,6 +78,10 @@ h2{
 .btncentercard:hover{
     background-color: #E73C25;
 }
+.carte{
+    border-color: #000;
+
+}
 h5{
     font-family: 'Acme', sans-serif;
 }
