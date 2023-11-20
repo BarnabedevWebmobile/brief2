@@ -92,6 +92,10 @@ h5{
     background-color: #778DA9;
     color: #fff;
 }
+.button:hover{
+    background-color: #a2d2ff;
+    color: #E73C25;
+}
 footer{
     background-color: #22223B;
 }

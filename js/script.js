@@ -23,6 +23,7 @@ function send(){
                 document.getElementById('incorrect').innerHTML=("mot de passe différent")
                 msgerreur.style.display="block"
             }else{
+                msgerreur.classList.remove("alert-danger")
                 msgerreur.classList.add("alert-success")
                 document.getElementById('incorrect').innerHTML=("message envoyer")
                 msgerreur.style.display="block"
