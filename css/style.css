@@ -63,10 +63,7 @@ h2{
 .project{
     background-color: #8D99AE;
 }
-.project img{
-    width: 250px;
-    height: 135px;
-}
+
 .btncentercard{
     display: flex;
     justify-content: center;
